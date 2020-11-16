@@ -4,6 +4,8 @@ Resources for learning topology and related concepts
 
 [[img/learning-topology.png]]
 
+* Books
+
 ** [[http://www.savoir-sans-frontieres.com/JPP/telechargeables/English/Topo_the_world_eng.pdf][Topo the World]]
 Jean Pierre-Petit
 
@@ -23,5 +25,12 @@ Accessible introduction to the concepts of topology written in a comic format by
 
 #+END_HTML
 
+* Posts
 
+** [[https://sauln.github.io/blog/tda_explanations/][Machine Learning Explanations with Topological Data Analysis]]
+Nathaniel Saul
 
+* Videos
+
+** [[The derivative isn't what you think it is][https://www.youtube.com/watch?v=2ptFnIj71SM]]
+A neat video on the isomorphism between forms and chains and an insight on the relation between boundaries and differential equations.
