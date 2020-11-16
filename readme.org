@@ -15,7 +15,13 @@ Accessible introduction to the concepts of topology written in a comic format by
 
 ** [[https://calculus123.com/wiki/Topology_Illustrated][Topology Illustrated]]
 
-[[./img/topology-illustrated-cover.jpg]]
-[[./img/topology-illustrated-back.jpg]]
+#+BEGIN_HTML
 
-A book with around 1000 illustrations that elucidates the concepts of topology.
+<img align="left" src="./img/topology-illustrated-cover.jpg" width="450px" />
+<img align="left" src="./img/topology-illustrated-back.jpg" width="450px" />
+<p>A book with around 1000 illustrations that elucidates the concepts of topology.</p>
+
+#+END_HTML
+
+
+
