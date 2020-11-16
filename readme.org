@@ -4,7 +4,7 @@ Resources for learning topology and related concepts
 
 [[img/learning-topology.png]]
 
-** Topo the World
+** [[http://www.savoir-sans-frontieres.com/JPP/telechargeables/English/Topo_the_world_eng.pdf][Topo the World]]
 Jean Pierre-Petit
 
 [[./img/topo-the-world-1.png]]
