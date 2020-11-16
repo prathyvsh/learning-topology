@@ -1,0 +1,11 @@
+* Learning Topology
+
+Resources for learning topology and related concepts
+
+** Topo the World
+Jean Pierre-Petit
+
+[[./img/topo-the-world1.png]]
+[[./img/topo-the-world2.png]]
+
+Accessible introduction to the concepts of topology written in a comic format by Jean Pierre-Petit
